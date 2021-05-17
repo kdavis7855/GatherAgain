@@ -8,23 +8,23 @@ Only uncomment a line here if the corresponding button is uncommented on the htm
 
 // West Little Rock registration links
   var wlr9am = document.getElementById('wlr9am');
-  wlr9am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69057"
+  wlr9am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69087"
   var wlr11am = document.getElementById('wlr11am');
-  wlr11am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69059"
+  wlr11am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69089"
 
 
 // Benton registration links
   var benton9am = document.getElementById('benton9am');
-  benton9am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69047"
+  benton9am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69077"
   var benton11am = document.getElementById('benton11am');
-  benton11am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69049"
+  benton11am.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69078"
 
 //Cabot registration links
   var link = document.getElementById('cabot9am');
-  link.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69051"
+  link.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69081"
   var link = document.getElementById('cabot11am');
-  link.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69053"
+  link.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69083"
 
 //Midtown registration link
   var link = document.getElementById('mid5pm');
-  link.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69054"
+  link.href = "https://my.fellowshipar.com/portal/event_detail.aspx?id=69086"
